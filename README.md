@@ -11,10 +11,12 @@ Built with AI assistance, reviewed line by line, shipped only when tests pass.
 | - | - |
 | [`depmedic`](https://www.npmjs.com/package/depmedic) | Surgical npm vulnerability triage. Reads `npm audit --json`, prints the smallest set of bumps that close the reported vulns. Prod/dev split. CI exit codes. |
 | [`ci-doctor`](https://www.npmjs.com/package/ci-doctor) | Audit GitHub Actions workflows for waste, cost, and security gaps. CLI and Action. Sticky PR comment with findings and fixes. |
+| [`cursor-rules-init`](https://www.npmjs.com/package/cursor-rules-init) | Scaffold a starter `.cursorrules` for Cursor / Claude / ChatGPT in one command. Stack-aware: TypeScript, React, Next.js, Python, Node servers. |
 
 ```bash
 npx depmedic
 npx ci-doctor
+npx cursor-rules-init typescript
 ```
 
 ## Paid, on Polar
