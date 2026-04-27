@@ -21,15 +21,19 @@ npx ci-doctor
 
 | Product | Price | What's in it |
 | - | - | - |
-| [Senior Dev System Prompt](https://polar.sh/depmedicdev/cursor-prompt) | $3 | One hand-tuned system prompt that makes any chat-based AI tool act like a senior dev. Drops into Cursor, Claude, ChatGPT, local LLMs. |
-| [Senior Dev Cursor Rules pack](https://polar.sh/depmedicdev/cursor-rules) | $7 | 24 `.cursorrules` files plus 3 system prompts. Stack overlays for TypeScript, React, Next.js App Router, Python, Node, REST, Postgres, testing, security, and more. |
-| [Cut Your CI Bill cookbook](https://polar.sh/depmedicdev/gha-cookbook) | $19 | 30 patterns for cheaper, faster, less leaky GitHub Actions. 5 paste-ready snippet workflows. Companion to the free ci-doctor. |
+| [Senior Dev System Prompt](https://buy.polar.sh/polar_cl_uB8vltMstgTufNMgUCEslCJXYrJdKh7IiaV4X40HCoS) | $3 | One hand-tuned system prompt that makes any chat-based AI tool act like a senior dev. Drops into Cursor, Claude, ChatGPT, local LLMs. |
+| [Senior Dev Cursor Rules pack](https://buy.polar.sh/polar_cl_jxM0uITjh3WOQYgLnrVfRgN3yLjhvCCB8iItg3PHmOy) | $7 | 24 `.cursorrules` files plus 3 system prompts. Stack overlays for TypeScript, React, Next.js App Router, Python, Node, REST, Postgres, testing, security, and more. |
+| [Cut Your CI Bill cookbook](https://buy.polar.sh/polar_cl_E2HGFeAVxJ64gU0Tv0qGwAueuxvhuq6A0pjhE4BWTyD) | $19 | 30 patterns for cheaper, faster, less leaky GitHub Actions. 5 paste-ready snippet workflows. Companion to the free ci-doctor. |
+| [Pro license (monthly)](https://buy.polar.sh/polar_cl_SUzmX5RCQCV8MJV3dDEBFMu3MGWu2WQhzZ1s02ZhK09) | $9/mo | Pro tier for depmedic + ci-doctor. Org policy file, audit history, private-repo support, dollar-based cost projection. |
+| [Pro license (yearly)](https://buy.polar.sh/polar_cl_JVgKDJuOyHONZmW2GlP8oBoIIME2ZDCxlfP5c3ZA1ZN) | $39/yr | Same as monthly. Two months free. |
 
 ## What's coming
 
-A Pro tier for `depmedic` and `ci-doctor`: org-wide policy files, audit
-history pages, private-repo support, dollar-based cost projections, and a
-reachability check for npm vulnerabilities. License via Polar.
+The Pro tier above is being built out actively. Subscribers at the launch
+price get all features as they ship and the founder rate locked in.
+
+License keys are delivered by email at checkout. Validation via a small
+Cloudflare Worker (free tier) calling the Polar customer-state API.
 
 ## How to reach me
 
