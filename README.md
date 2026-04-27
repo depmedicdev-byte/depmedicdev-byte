@@ -12,7 +12,7 @@ Built with AI assistance, reviewed line by line, shipped only when tests pass.
 | Tool | What it does |
 | - | - |
 | [`depmedic`](https://www.npmjs.com/package/depmedic) | Surgical npm vulnerability triage. Reads `npm audit --json`, prints the smallest set of bumps that close the reported vulns. Prod/dev split. CI exit codes. |
-| [`ci-doctor`](https://www.npmjs.com/package/ci-doctor) | Audit GitHub Actions workflows for waste, cost, and security gaps. CLI and Action. Sticky PR comment with findings and fixes. |
+| [`ci-doctor`](https://www.npmjs.com/package/ci-doctor) | Audit GitHub Actions workflows for waste, cost, and security gaps. CLI and Action. Sticky PR comment. **`--fix` mode auto-applies safe fixes in place.** |
 | [`cursor-rules-init`](https://www.npmjs.com/package/cursor-rules-init) | Scaffold a starter `.cursorrules` for Cursor / Claude / ChatGPT in one command. Stack-aware: TypeScript, React, Next.js, Python, Node servers. |
 | [`gha-budget`](https://www.npmjs.com/package/gha-budget) | Estimate the dollar cost of a GitHub Actions workflow before you commit it. Per-runner pricing, matrix expansion, monthly projection. Pairs with ci-doctor. |
 | [`pin-actions`](https://www.npmjs.com/package/pin-actions) | Pin every `uses: owner/repo@ref` in your workflows to a full commit SHA. Supply-chain-safe, in-place rewrite, comment-preserving. |
