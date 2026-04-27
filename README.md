@@ -33,7 +33,7 @@ npx pin-actions --check
 | [Senior Dev Cursor Rules pack](https://buy.polar.sh/polar_cl_jxM0uITjh3WOQYgLnrVfRgN3yLjhvCCB8iItg3PHmOy) | $7 | 24 `.cursorrules` files plus 3 system prompts. Stack overlays for TypeScript, React, Next.js App Router, Python, Node, REST, Postgres, testing, security, and more. |
 | [Cut Your CI Bill cookbook](https://buy.polar.sh/polar_cl_E2HGFeAVxJ64gU0Tv0qGwAueuxvhuq6A0pjhE4BWTyD) | $19 | 30 patterns for cheaper, faster, less leaky GitHub Actions. 5 paste-ready snippet workflows. Companion to the free ci-doctor. |
 | [Pro license (monthly)](https://buy.polar.sh/polar_cl_SUzmX5RCQCV8MJV3dDEBFMu3MGWu2WQhzZ1s02ZhK09) | $9/mo | Pro tier for depmedic + ci-doctor. Org policy file, audit history, private-repo support, dollar-based cost projection. |
-| [Pro license (yearly)](https://buy.polar.sh/polar_cl_JVgKDJuOyHONZmW2GlP8oBoIIME2ZDCxlfP5c3ZA1ZN) | $39/yr | Same as monthly. Two months free. |
+| [Pro license (yearly)](https://buy.polar.sh/polar_cl_JVgKDJuOyHONZmW2GlP8oBoIIME2ZDCxlfP5c3ZA1ZN) | $90/yr | Same as monthly. Two months free vs paying monthly. |
 
 ## What's coming
 
