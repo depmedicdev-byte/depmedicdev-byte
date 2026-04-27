@@ -25,6 +25,15 @@ npx gha-budget
 npx pin-actions --check
 ```
 
+## Try it without installing
+
+| Tool | What it does |
+| - | - |
+| [Audit a workflow](https://depmedicdev-byte.github.io/audit.html) | Paste a workflow YAML, get severity-ranked findings. Same engine as `ci-doctor`. Runs in your browser. Shareable URL hash. |
+| [Price a workflow](https://depmedicdev-byte.github.io/budget.html) | Paste a workflow YAML, get $/run + monthly projection. Same engine as `gha-budget`. Matrix expansion. |
+| [Savings calculator](https://depmedicdev-byte.github.io/calculator.html) | Estimate monthly waste from a few inputs. |
+| [OSS benchmarks](https://depmedicdev-byte.github.io/benchmarks.html) | Real cost data: 20 popular repos, 229 workflows, 902 CI smells, $51k/mo combined. |
+
 ## Paid, on Polar
 
 | Product | Price | What's in it |
