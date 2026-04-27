@@ -3,6 +3,8 @@
 Tools that take the boring, expensive parts of CI and dependency management
 off your plate.
 
+Site: <https://depmedicdev-byte.github.io>
+
 Built with AI assistance, reviewed line by line, shipped only when tests pass.
 
 ## Free, MIT, on npm and GitHub
